@@ -10,10 +10,10 @@
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="no.nordicsemi.android.LOG" />
 
-    <provider
-        android:name=".log.LogProvider"
-        android:authorities="thejeshgn.com.bleuartperipheral"
-        android:exported="true" />
+<!--    <provider-->
+<!--        android:name=".log.LogProvider"-->
+<!--        android:authorities="thejeshgn.com.bleuartperipheral"-->
+<!--        android:exported="true" />-->
 
     <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />

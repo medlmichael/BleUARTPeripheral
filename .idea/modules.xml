@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BleUARTPeripheral.iml" filepath="$PROJECT_DIR$/BleUARTPeripheral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/BleUARTPeripheral-app.iml" filepath="$PROJECT_DIR$/app/BleUARTPeripheral-app.iml" group="BleUARTPeripheral/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repo-BleUARTPeripheral.iml" filepath="$PROJECT_DIR$/repo-BleUARTPeripheral.iml" group="BleUARTPeripheral" />
     </modules>
   </component>
 </project>
